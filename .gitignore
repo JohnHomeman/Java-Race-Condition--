@@ -1,1 +1,6 @@
 ai_context/.rules_source.local
+target/
+*.class
+.DS_Store
+.idea/
+*.iml
